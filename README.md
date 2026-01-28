@@ -41,10 +41,53 @@ Aspiring **Security Operations Center (SOC) Analyst** focused on leveraging open
 
 ## 🏆 Certifications
 
-![ISC2 CC](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-0066CC?style=for-the-badge&logo=security&logoColor=white)
+---
 
-![Huawei HCIA-Datacom](https://img.shields.io/badge/Huawei-HCIA%20Datacom-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+### 🟢 ISC2 Certified in Cybersecurity (CC)
 
-![INE eCIR Soon](https://img.shields.io/badge/INE-eCIR%20(Coming%20Soon)-000000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![ISC2](https://img.shields.io/badge/ISC2-CC-success?style=for-the-badge&logo=security&logoColor=white)
+
+- Access Control  
+- Security Principles  
+- Security Operations  
+- Incident Response Fundamentals  
+- Network Security Concepts  
+- Business Continuity Planning (BCP)  
+- Disaster Recovery Planning (DRP)
+
+---
+
+### 🔴 Huawei HCIA-DATACOM
+
+![Huawei](https://img.shields.io/badge/Huawei-HCIA%20Datacom-red?style=for-the-badge&logo=huawei&logoColor=white)
+
+- TCP/IP Networking, VLANs, and Subnetting  
+- Routing Configuration (OSPF, RIP, Static Routing)  
+- Access Control Lists (ACLs) and Traffic Filtering  
+- Firewall and VPN Fundamentals  
+- MPLS, SD-WAN, and WAN Technologies  
+- Dual-Stack Deployment (IPv4 & IPv6)  
+- Tunneling Techniques and Secure Connectivity  
+- Python Basics for Network Automation  
+- Software-Defined Networking (SDN) Concepts  
+
+---
+
+### 🔵 INE Certified Incident Responder (eCIR) *(Coming Soon)*
+
+![INE](https://img.shields.io/badge/INE-eCIR-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
+
+- Threat Detection & SIEM Operations  
+- Multi-Source Log Correlation and IOC Analysis  
+- Endpoint Telemetry and Audit Log Investigation  
+- Persistence and Privilege Escalation Detection  
+- Network Traffic & PCAP Analysis (C2, Lateral Movement)  
+- Digital Forensics and Evidence-Based Analysis  
+- Malware and Suspicious File Artifact Review  
+- Threat Intelligence Mapping (MITRE ATT&CK)  
+- Incident Reporting and Communication of Findings  
+
+---
+
 
 ⭐ Always learning, building, and improving in Cybersecurity.
