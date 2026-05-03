@@ -7,10 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=ali-alaradi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=0B0D17&center=true&vCenter=true&width=600&lines=ali%40alaradi%3A~%24+whoami;%5B%2B%5D+SOC+Analyst+%26+IR+Specialist;%5B%2B%5D+Hunting+Threats...;%5B%2B%5D+Exploiting+Networks...;%5B%2B%5D+Target%3A+eCPPT+v3" alt="Typing SVG" />
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=0B0D17&center=true&vCenter=true&width=600&lines=ali%40alaradi%3A~%24+whoami;%5B%2B%5D+SOC+Analyst+%26+IR+Specialist;%5B%2B%5D+Certified+eCPPT+%E2%9C%94;%5B%2B%5D+Hunting+Threats...;%5B%2B%5D+Exploiting+Networks...;%5B%2B%5D+Target%3A+OSCP" alt="Typing SVG" />
 
-**Polytechnic Cybersecurity Student | SOC Analyst & IR Specialist**
+<br>
+
+**Polytechnic Cybersecurity Student | SOC Analyst · IR Specialist · Penetration Tester**
 
 *Building a strong foundation in networking, threat detection, digital forensics, and system security. Passionate about hands-on security monitoring and bridging defensive operations with offensive tactics to systematically mitigate threats.*
 
@@ -113,15 +114,13 @@
 
 ---
 
-## 🏆 Certifications & Training
-
-*(Click to expand details)*
+## 🏆 Certifications
 
 <details>
-<summary><b>⏳ Currently Pursuing: eLearnSecurity Certified Professional Penetration Tester (eCPPT)</b></summary>
+<summary><b>Certified Professional Penetration Tester (eCPPT)</b></summary>
 <br>
 
-![eCPPT](https://img.shields.io/badge/INE-eCPPT%20(In%20Progress)-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![eCPPT](https://img.shields.io/badge/INE-eCPPT-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 - **Full-Spectrum Threat Emulation:** Executing complex, multi-stage penetration tests mimicking real-world APT tactics.
 - **Infrastructure & Web Exploitation:** Compromising hardened network perimeters and exploiting intricate web application logic.
@@ -131,7 +130,7 @@
 </details>
 
 <details>
-<summary><b>🔵 INE Certified Incident Responder (eCIR)</b></summary>
+<summary><b>INE Certified Incident Responder (eCIR)</b></summary>
 <br>
 
 ![INE](https://img.shields.io/badge/INE-eCIR-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
@@ -148,7 +147,7 @@
 </details>
 
 <details>
-<summary><b>🟢 ISC2 Certified in Cybersecurity (CC)</b></summary>
+<summary><b>ISC2 Certified in Cybersecurity (CC)</b></summary>
 <br>
 
 ![ISC2](https://img.shields.io/badge/ISC2-CC-success?style=for-the-badge&logo=security&logoColor=white)
@@ -160,7 +159,7 @@
 </details>
 
 <details>
-<summary><b>🔴 Huawei HCIA-DATACOM</b></summary>
+<summary><b>Huawei HCIA-DATACOM</b></summary>
 <br>
 
 ![Huawei](https://img.shields.io/badge/Huawei-HCIA%20Datacom-red?style=for-the-badge&logo=huawei&logoColor=white)
@@ -172,6 +171,19 @@
 - Dual-Stack Deployment (IPv4 & IPv6) & Secure Connectivity
 - Python Basics for Network Automation & SDN Concepts
 </details>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-alaradi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0B0D17&title_color=00FF00&icon_color=00FF00" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-alaradi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0B0D17&title_color=00FF00" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-alaradi&theme=chartreuse-dark&hide_border=true&background=0B0D17&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
+</div>
 
 ---
 
@@ -188,4 +200,7 @@
 00000070  2d 20 41 73 68 77 6c 6a 6c 61 6c 7a 6a 63 20 47  |- Ashwljlalzjc G|
 00000080  6c 61 7a 6a 63 20 34 32 2e 00 00 00 00 00 00 00  |lazjc 42........|
 ```
+
+*`chmod +x ./ali-alaradi` — now executing.*
+
 </div>
