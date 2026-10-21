@@ -1,206 +1,226 @@
+<!-- ═══════════════════════════════════  HEADER  ═══════════════════════════════════ -->
 <div align="center">
 
-# 👨‍💻 Ali Alaradi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B3A,100:5B3FA8&height=230&section=header&text=Ali%20Alaradi&fontSize=64&fontColor=EDE9FE&fontAlignY=36&desc=Offensive%20Security%20%C2%B7%20Incident%20Response%20%C2%B7%20GRC&descSize=18&descAlignY=58&descColor=A78BFA&animation=fadeIn" width="100%" alt="Ali Alaradi" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ali-alaradi-7a83281b7/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ali-alaradi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&background=0B0D17&center=true&vCenter=true&width=600&lines=ali%40alaradi%3A~%24+whoami;%5B%2B%5D+SOC+Analyst+%26+IR+Specialist;%5B%2B%5D+Certified+eCPPT+%E2%9C%94;%5B%2B%5D+Hunting+Threats...;%5B%2B%5D+Exploiting+Networks...;%5B%2B%5D+Target%3A+OSCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=620&height=36&lines=Breaking+web+apps+and+Active+Directory;Hunting+threats+through+logs+and+memory;Auditing+against+ISO%2FIEC+27001%3A2022;Next+target%3A+CompTIA+Security%2B" alt="typing" />
 
 <br>
 
-**Polytechnic Cybersecurity Student | SOC Analyst · IR Specialist · Penetration Tester**
-
-*Building a strong foundation in networking, threat detection, digital forensics, and system security. Passionate about hands-on security monitoring and bridging defensive operations with offensive tactics to systematically mitigate threats.*
+<a href="https://www.linkedin.com/in/ali-alaradi-7a83281b7/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1E1B3A?style=for-the-badge&logo=linkedin&logoColor=EDE9FE&labelColor=5B3FA8" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=ali-alaradi&label=Profile%20Views&color=1E1B3A&style=for-the-badge&labelColor=5B3FA8" alt="views" />
 
 </div>
 
----
-
-> 🎯 **Objective:** Aspiring **Security Operations Center (SOC) Analyst** and **IR Specialist** actively seeking an internship opportunity. Focused on leveraging open-source SIEM tools, threat intelligence, and automation to detect, investigate, and respond to cyber threats in real time.
-
----
-
-## 🧰 Tools & Technologies
-
-### ⚔️ Offensive Security & Penetration Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-blue?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/BloodHound-2D323E?style=for-the-badge&logo=bloodhound&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responder-8B0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hashcat-4C5154?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OWASP%20ZAP-00559E?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sqlmap-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cobalt%20Strike-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sliver%20C2-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Impacket-4C5154?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetExec-FF0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PEAS%20Suite-FFD700?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/FFuf-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nuclei-00559E?style=for-the-badge" />
-</p>
-
-### 🌐 Network Analysis & Defense
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-FF9900?style=for-the-badge&logo=snort&logoColor=white" />
-  <img src="https://img.shields.io/badge/Suricata-EE0000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zeek-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pfSense-000000?style=for-the-badge&logo=pfsense&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
-</p>
-
-### 💻 Endpoint Security & DFIR
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh-6B4CFF?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sysinternals-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Volatility-4B275F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FTK%20Imager-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OLETools-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/CyberChef-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FLOSS%20(Mandiant)-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PeStudio-C8102E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KAPE-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plaso%20(Log2Timeline)-4B275F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ExifTool-4EAA25?style=for-the-badge" />
-</p>
-
-### 📊 SIEM, Log Analysis & Threat Intel
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-  <img src="https://img.shields.io/badge/MISP-1A1A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TheHive-FFD700?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cortex%20XSOAR-fa582d?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM%20QRadar-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Chronicle-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCTI-010A1A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
-  <img src="https://img.shields.io/badge/AlienVault%20OTX-000000?style=for-the-badge&logo=alienvault&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shuffle%20SOAR-2E2E2E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tines-000000?style=for-the-badge" />
-</p>
-
-### ⚙️ Automation, Scripting & Data Analysis
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-2D7D9A?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
----
-
-## 🏆 Certifications
-
-<details>
-<summary><b>Certified Professional Penetration Tester (eCPPT)</b></summary>
 <br>
 
-![eCPPT](https://img.shields.io/badge/INE-eCPPT-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+<!-- ═══════════════════════════════════  ABOUT  ═══════════════════════════════════ -->
 
-- **Full-Spectrum Threat Emulation:** Executing complex, multi-stage penetration tests mimicking real-world APT tactics.
-- **Infrastructure & Web Exploitation:** Compromising hardened network perimeters and exploiting intricate web application logic.
-- **Enterprise Active Directory Exploitation:** Systematically dismantling domain security, abusing Kerberos authentication, and executing complete domain privilege escalation.
-- **Advanced Post-Exploitation:** Mastering stealthy lateral movement, deep network pivoting, and complex privilege escalation vectors.
-- **Vulnerability Weaponization:** Engineering custom exploits, buffer overflows, and developing payloads to bypass modern defenses.
-</details>
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<details>
-<summary><b>INE Certified Incident Responder (eCIR)</b></summary>
+### 👾 &nbsp;About me
+
+Final-year **BSc Cybersecurity** student, working across both sides of the wire.
+
+I break into **web applications** and **Active Directory** environments, investigate what attackers leave behind in **logs, memory and disk**, and turn it all into controls that hold up in an **ISO 27001 audit**.
+
+> *Think like the attacker. Document like the auditor. Respond like the defender.*
+
+</td>
+<td width="42%" valign="top">
+
+### 🎯 &nbsp;Focus areas
+
+🕸️ &nbsp;Web application pentesting<br>
+🏰 &nbsp;Active Directory attacks<br>
+🔬 &nbsp;Digital forensics & IR<br>
+📡 &nbsp;Threat detection & SIEM<br>
+📋 &nbsp;GRC & ISMS auditing
+
+</td>
+</tr>
+</table>
+
 <br>
 
-![INE](https://img.shields.io/badge/INE-eCIR-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-- Threat Detection & SIEM Operations
-- Multi-Source Log Correlation and IOC Analysis
-- Endpoint Telemetry and Audit Log Investigation
-- Persistence and Privilege Escalation Detection
-- Network Traffic & PCAP Analysis (C2, Lateral Movement)
-- Digital Forensics and Evidence-Based Analysis
-- Malware and Suspicious File Artifact Review
-- Threat Intelligence Mapping (MITRE ATT&CK)
-- Incident Reporting and Communication of Findings
-</details>
-
-<details>
-<summary><b>ISC2 Certified in Cybersecurity (CC)</b></summary>
-<br>
-
-![ISC2](https://img.shields.io/badge/ISC2-CC-success?style=for-the-badge&logo=security&logoColor=white)
-
-- Access Control & Security Principles
-- Security Operations & Incident Response Fundamentals
-- Network Security Concepts
-- Business Continuity Planning (BCP) & Disaster Recovery Planning (DRP)
-</details>
-
-<details>
-<summary><b>Huawei HCIA-DATACOM</b></summary>
-<br>
-
-![Huawei](https://img.shields.io/badge/Huawei-HCIA%20Datacom-red?style=for-the-badge&logo=huawei&logoColor=white)
-
-- TCP/IP Networking, VLANs, and Subnetting
-- Routing Configuration (OSPF, RIP, Static Routing)
-- Access Control Lists (ACLs) and Traffic Filtering
-- Firewall, VPN Fundamentals, MPLS, SD-WAN, and WAN Technologies
-- Dual-Stack Deployment (IPv4 & IPv6) & Secure Connectivity
-- Python Basics for Network Automation & SDN Concepts
-</details>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-alaradi&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0B0D17&title_color=00FF00&icon_color=00FF00" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-alaradi&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0B0D17&title_color=00FF00" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-alaradi&theme=chartreuse-dark&hide_border=true&background=0B0D17&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" />
-</div>
-
----
+<!-- ═══════════════════════════════════  CERTS  ═══════════════════════════════════ -->
 
 <div align="center">
 
-```text
-00000000  54 48 45 20 51 55 45 53 54 49 4f 4e 20 49 53 20  |THE QUESTION IS |
-00000010  34 32 20 2d 20 43 41 4e 20 59 4f 55 20 46 49 4e  |42 - CAN YOU FIN|
-00000020  44 20 54 48 45 20 41 4e 53 57 45 52 3f 20 4d 59  |D THE ANSWER? MY|
-00000030  53 54 45 52 59 20 43 4f 44 45 20 49 53 3a 20 58  |STERY CODE IS: X|
-00000040  30 52 20 34 32 20 2d 20 44 45 43 4f 44 45 3a 20  |0R 42 - DECODE: |
-00000050  56 6c 71 63 6c 71 6c 71 6b 62 6f 63 20 47 62 62  |Vlqclqlqkboc Gbb|
-00000060  62 61 71 20 43 6c 6a 62 61 63 6a 6a 20 34 32 20  |baq Cljbacjaaj 42 |
-00000070  2d 20 41 73 68 77 6c 6a 6c 61 6c 7a 6a 63 20 47  |- Ashwljlalzjc G|
-00000080  6c 61 7a 6a 63 20 34 32 2e 00 00 00 00 00 00 00  |lazjc 42........|
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2A2152&height=46&section=header&text=CERTIFICATIONS&fontSize=20&fontColor=C4B5FD&fontAlignY=55" width="100%" />
 
-*`chmod +x ./ali-alaradi` — now executing.*
+<br>
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://ine.com/assets/certifications/ewptx.svg" height="110" alt="eWPTX" /><br>
+<b>eWPTX</b><br>
+<sub>Web App Penetration Tester eXtreme · INE</sub>
+</td>
+<td align="center" width="200">
+<img src="https://ine.com/assets/certifications/ecppt.svg" height="110" alt="eCPPT" /><br>
+<b>eCPPT</b><br>
+<sub>Certified Professional Penetration Tester · INE</sub>
+</td>
+<td align="center" width="200">
+<img src="https://ine.com/assets/certifications/ecir.svg" height="110" alt="eCIR" /><br>
+<b>eCIR</b><br>
+<sub>Certified Incident Responder · INE</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://api.iconify.design/mdi/certificate.svg?color=%23A78BFA&height=110" height="110" alt="ISO 27001 Lead Auditor" /><br>
+<b>ISO/IEC 27001:2022 LA</b><br>
+<sub>Lead Auditor</sub>
+</td>
+<td align="center" width="200">
+<img src="https://images.credly.com/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" height="110" alt="ISC2 CC" /><br>
+<b>CC</b><br>
+<sub>Certified in Cybersecurity · ISC2</sub>
+</td>
+<td align="center" width="200">
+<img src="https://cdn.simpleicons.org/huawei/FF0000" height="110" alt="HCIA-Datacom" /><br>
+<b>HCIA-Datacom</b><br>
+<sub>Routing & Switching · Huawei</sub>
+</td>
+</tr>
+</table>
+
+<sub><b>NEXT UP</b></sub><br>
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" height="80" alt="CompTIA Security+" /><br>
+<sub>CompTIA Security+</sub>
 
 </div>
+
+<details>
+<summary>&nbsp;<b>What each certification covers</b></summary>
+<br>
+
+| Cert | Skills proven |
+|:--|:--|
+| **eWPTX** | Advanced injection (SQLi, NoSQLi, SSTI), WAF/filter evasion, deserialization, XXE, SSRF, JWT & OAuth attacks, API testing (REST/GraphQL), client-side exploit chains |
+| **eCPPT** | Multi-stage engagements, Kerberos abuse, AD privilege escalation, lateral movement, pivoting, buffer overflows |
+| **eCIR** | SIEM operations, log correlation, endpoint & PCAP analysis, persistence detection, malware artifacts, MITRE ATT&CK mapping |
+| **ISO 27001 LA** | Planning and leading ISMS audits, Annex A control assessment, nonconformity reporting |
+| **CC** | Security principles, access control, network security, BCP/DR |
+| **HCIA-Datacom** | TCP/IP, VLANs, OSPF, ACLs, VPN/MPLS/SD-WAN, IPv4/IPv6 dual-stack |
+
+</details>
+
+<br>
+
+<!-- ═══════════════════════════════════  ARSENAL  ═══════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2A2152&height=46&section=header&text=ARSENAL&fontSize=20&fontColor=C4B5FD&fontAlignY=55" width="100%" />
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="170"><b>🗡️ Offensive</b></td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/kalilinux/C4B5FD" height="38" title="Kali Linux" alt="Kali Linux" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/parrotsecurity/C4B5FD" height="38" title="Parrot OS" alt="Parrot OS" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/C4B5FD" height="38" title="Burp Suite" alt="Burp Suite" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/C4B5FD" height="38" title="Metasploit" alt="Metasploit" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/owasp/C4B5FD" height="38" title="OWASP ZAP" alt="OWASP" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hashcat/C4B5FD" height="38" title="Hashcat" alt="Hashcat" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/hackthebox/C4B5FD" height="38" title="Hack The Box" alt="Hack The Box" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tryhackme/C4B5FD" height="38" title="TryHackMe" alt="TryHackMe" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>📡 SIEM & Intel</b></td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/splunk/C4B5FD" height="38" title="Splunk" alt="Splunk" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/elasticstack/C4B5FD" height="38" title="Elastic Stack" alt="Elastic Stack" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/elasticsearch/C4B5FD" height="38" title="Elasticsearch" alt="Elasticsearch" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/kibana/C4B5FD" height="38" title="Kibana" alt="Kibana" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/logstash/C4B5FD" height="38" title="Logstash" alt="Logstash" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/graylog/C4B5FD" height="38" title="Graylog" alt="Graylog" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/grafana/C4B5FD" height="38" title="Grafana" alt="Grafana" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/virustotal/C4B5FD" height="38" title="VirusTotal" alt="VirusTotal" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Network</b></td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/wireshark/C4B5FD" height="38" title="Wireshark" alt="Wireshark" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cisco/C4B5FD" height="38" title="Cisco" alt="Cisco" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/fortinet/C4B5FD" height="38" title="Fortinet" alt="Fortinet" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/paloaltonetworks/C4B5FD" height="38" title="Palo Alto Networks" alt="Palo Alto" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pfsense/C4B5FD" height="38" title="pfSense" alt="pfSense" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/openvpn/C4B5FD" height="38" title="OpenVPN" alt="OpenVPN" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cloudflare/C4B5FD" height="38" title="Cloudflare" alt="Cloudflare" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Code & Infra</b></td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/python/C4B5FD" height="38" title="Python" alt="Python" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/gnubash/C4B5FD" height="38" title="Bash" alt="Bash" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/linux/C4B5FD" height="38" title="Linux" alt="Linux" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/ubuntu/C4B5FD" height="38" title="Ubuntu" alt="Ubuntu" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/docker/C4B5FD" height="38" title="Docker" alt="Docker" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/C4B5FD" height="38" title="Git" alt="Git" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/C4B5FD" height="38" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vmware/C4B5FD" height="38" title="VMware" alt="VMware" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/virtualbox/C4B5FD" height="38" title="VirtualBox" alt="VirtualBox" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/proxmox/C4B5FD" height="38" title="Proxmox" alt="Proxmox" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧠 Data & ML</b></td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/pandas/C4B5FD" height="38" title="pandas" alt="pandas" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/numpy/C4B5FD" height="38" title="NumPy" alt="NumPy" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/C4B5FD" height="38" title="scikit-learn" alt="scikit-learn" />&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/C4B5FD" height="38" title="TensorFlow" alt="TensorFlow" />
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary>&nbsp;<b>Full toolkit</b></summary>
+<br>
+
+| 🗡️ Offense | 🔬 DFIR | 📡 Detection & Intel |
+|:-:|:-:|:-:|
+| Burp Suite Pro · Impacket · NetExec | Volatility 3 · KAPE · Plaso | Splunk · Elastic · Wazuh |
+| BloodHound · Mimikatz · Responder | Autopsy · FTK Imager | Microsoft Sentinel · QRadar |
+| Sliver · Metasploit · PEAS | Sysinternals · PeStudio · FLOSS | Graylog · Zeek · Suricata |
+| ffuf · Nuclei · sqlmap · Nmap | oletools · CyberChef · ExifTool | MISP · OpenCTI · TheHive |
+| Hashcat · John the Ripper | Microsoft Defender | Cortex XSOAR · Shuffle · Tines |
+
+</details>
+
+</div>
+
+<br>
+
+<!-- ═══════════════════════════════════  STATS  ═══════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2A2152&height=46&section=header&text=GITHUB%20ACTIVITY&fontSize=20&fontColor=C4B5FD&fontAlignY=55" width="100%" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ali-alaradi&show_icons=true&hide_border=true&bg_color=161B22&title_color=C4B5FD&icon_color=A78BFA&text_color=E6EDF3&ring_color=A78BFA&rank_icon=github" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-alaradi&hide_border=true&background=161B22&ring=A78BFA&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=E6EDF3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&stroke=2A2152" height="165" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ali-alaradi&bg_color=161B22&color=E6EDF3&line=A78BFA&point=EDE9FE&area=true&area_color=5B3FA8&hide_border=true&custom_title=Contributions" width="100%" />
+
+</div>
+
+<!-- ═══════════════════════════════════  FOOTER  ═══════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B3FA8,50:1E1B3A,100:0D1117&height=120&section=footer" width="100%" alt="footer" />
